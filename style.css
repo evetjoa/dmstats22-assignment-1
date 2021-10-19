@@ -1,0 +1,43 @@
+.profile-picture{
+    border-radius: 50%;
+}
+.page{
+    background-color: beige;
+}
+.name{
+    font-family: Birthstone, fantasy;
+    font-size: 100px;
+    position: relative;
+    left: 500px;
+    right:0;
+}
+.intro{
+    font-family: Georgia, rounded;
+    font-size: 22px;
+}
+.left{
+    position: relative;
+    left: 50px;
+    right: 50px;
+
+}
+.right{
+    position: relative;
+    left: 350px;
+    bottom:170px;
+}
+.bottom{
+    position: relative;
+    left: 350px;
+    bottom:0;
+    top:0;
+}
+#dynamic-content{
+    font-size: 30px;
+    font-family: Birthstone,serif;
+}
+#text2{
+    font-size: 11px;
+    text-anchor: middle;
+    font-family: Cambria ;
+}
